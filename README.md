@@ -7,6 +7,20 @@ completed code exercises.
 
 #####Chapter 1 - Enter the Ninja
 
+- To be a successful JavaScript coder, in addition to knowing JavaScript, we need to always apply best practices:
+    1. know how to write tests
+    2. know how do performance analysis
+    3. know how to debug
+
+- Even though browsers have become more standards-compliant, we still need to apply the following considerations when 
+  working on a project (Yahoo created the graded browser supoport matrix):
+    1. audience needs and expectations
+    2. browser market share 
+    3. development and support effort for the browsers
+    4. team skills
+
+- 
+
 #####Chapter 2 - Arming with testing and debugging
 
 #####Chapter 3 - Functions are fundamental
